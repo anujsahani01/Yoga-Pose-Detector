@@ -1,4 +1,5 @@
-![Demo](https://github.com/anujsahani01/Yoga-Pose-Detector/assets/83875986/e46b4697-1cd2-4510-9be8-622157035d92)# Yoga Pose Detector
+![Demo](https://github.com/anujsahani01/Yoga-Pose-Detector/assets/83875986/e46b4697-1cd2-4510-9be8-622157035d92)
+# Yoga Pose Detector
 
 ### Used MoveNet(movent thunder) for Pose and Skeleton detection and then using a simple Deep Learnig Model for Classification Purpose
 
@@ -25,7 +26,3 @@ Dataset consists of 5 kinds of Yoga poses
 
 #### Loss and Accuracy
 loss: 0.0560 - accuracy: 0.9802 - val_loss: 0.0716 - val_accuracy: 0.9750
-
-
-# Demo of my model
-![Demo](https://github.com/anujsahani01/Yoga-Pose-Detector/assets/83875986/31b14694-501d-4bfe-8e17-eb3f622e7cec)
